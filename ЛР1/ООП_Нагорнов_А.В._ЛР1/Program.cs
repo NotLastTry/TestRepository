@@ -17,7 +17,7 @@ namespace ООП_Нагорнов_А.В._ЛР1
             {
                 this.name = name;
             }
-            public Person(string name, int age) : this(name) //Конструктор Person(string name, int age) вызывает другой конструктор Person(string name) с параметром name
+            public Person(string name, int age) : this(name) 
             {
                 this.age = age;
             }
