@@ -13,6 +13,7 @@ namespace ООП_Нагорнов_А.В._ЛР1
 
         }
         class Person : Human
+
         {
             public string name = "Ben";
             public int age = 18;
@@ -51,7 +52,7 @@ namespace ООП_Нагорнов_А.В._ЛР1
         }
         static void Main(string[] args)
         {
-            Person P = new Person("Artyom", 25, "Artyom@gmail.com"); //Определение объекта P класса Person
+            Person P = new Person("Artyom", 25, "Artyom@gmail.com"); 
             Message M = new Message(); //Определение объекта M класса Message
             Message M1 = new Message("Aboba"); //Определение объекта M1 класса Message
             M.Type();
