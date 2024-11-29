@@ -15,6 +15,7 @@ namespace ООП_Нагорнов_А.В._ЛР1
         class Person : Human
 
         {
+            private int _id;
             public string name = "Ben";
             public int age = 18;
             public string email = "ben@gmail.com";
@@ -32,6 +33,10 @@ namespace ООП_Нагорнов_А.В._ЛР1
             }
         }
 
+        class Worker : Human 
+        { 
+        
+        }
 
         class Message //Определение класса Message
         {
