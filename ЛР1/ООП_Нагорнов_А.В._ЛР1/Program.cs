@@ -8,6 +8,10 @@ namespace ООП_Нагорнов_А.В._ЛР1
 {
     internal class Program
     {
+        class Worker
+        {
+            public int id;
+        }
         class Person
         {
             public string name = "Ben";
