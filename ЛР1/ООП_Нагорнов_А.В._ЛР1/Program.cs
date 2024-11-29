@@ -8,7 +8,11 @@ namespace ООП_Нагорнов_А.В._ЛР1
 {
     internal class Program
     {
-        class Person /
+        class Human
+        {
+
+        }
+        class Person : Human
         {
             public string name = "Ben";
             public int age = 18;
@@ -26,6 +30,7 @@ namespace ООП_Нагорнов_А.В._ЛР1
                 this.email = email;
             }
         }
+
 
         class Message //Определение класса Message
         {
