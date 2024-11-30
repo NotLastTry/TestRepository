@@ -23,6 +23,8 @@ namespace ООП_Нагорнов_А.В._ЛР1
                 Console.WriteLine($"{Id}");
             }
 
+
+
         }
         class Person : Human
 
