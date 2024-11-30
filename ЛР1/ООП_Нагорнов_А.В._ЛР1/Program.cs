@@ -10,7 +10,23 @@ namespace ООП_Нагорнов_А.В._ЛР1
     {
         class Human
         {
+<<<<<<< HEAD
             public string Name { get; set; }
+=======
+            private readonly string _id;        
+            public string Id { get { return _id; } set { _id = Id; } }
+
+            private string _name;
+            public string Name { get { return _name; } set { _name = value; } }
+
+            public void Print()
+            {
+                Console.WriteLine($"{Id}");
+            }
+
+
+
+>>>>>>> da8e82a (private string _name)
         }
         class Person : Human
 
