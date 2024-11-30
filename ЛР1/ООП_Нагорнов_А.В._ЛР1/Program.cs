@@ -10,7 +10,7 @@ namespace ООП_Нагорнов_А.В._ЛР1
     {
         class Human
         {
-
+            public string Name { get; set; }
         }
         class Person : Human
 
