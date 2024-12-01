@@ -18,10 +18,7 @@ namespace ООП_Нагорнов_А.В._ЛР1
             private string _name;
             public string Name { get { return _name; } set { _name = value; } }
 
-            public void Print()
-            {
-                Console.WriteLine($"{Id}");
-            }
+            
 
 
 

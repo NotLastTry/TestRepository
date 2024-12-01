@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Work\\Repository\\\u041B\u04201\\\u041E\u041E\u041F_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\TestRepository-Fork\\\u041B\u04201\\\u041E\u041E\u041F_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7C2FB78-AA68-47C2-A308-B96B1E9B2CDD}|\u041E\u041E\u041F_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|e:\\work\\repository\\\u043B\u04401\\\u043E\u043E\u043F_\u043D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0430.\u0432._\u043B\u04401\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7C2FB78-AA68-47C2-A308-B96B1E9B2CDD}|\u041E\u041E\u041F_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|c:\\users\\admin\\testrepository-fork\\\u043B\u04401\\\u043E\u043E\u043F_\u043D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0430.\u0432._\u043B\u04401\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7C2FB78-AA68-47C2-A308-B96B1E9B2CDD}|\u041E\u041E\u041F_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,17 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Work\\Repository\\\u041B\u04201\\\u041E\u041E\u041F_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\TestRepository-Fork\\\u041B\u04201\\\u041E\u041E\u041F_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Work\\Repository\\\u041B\u04201\\\u041E\u041E\u041F_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\TestRepository-Fork\\\u041B\u04201\\\u041E\u041E\u041F_\u041D\u0430\u0433\u043E\u0440\u043D\u043E\u0432_\u0410.\u0412._\u041B\u04201\\Program.cs",
               "RelativeToolTip": "Program.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAMAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
->>>>>>> da8e82a (private string _name)
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T13:41:48.758Z",
+              "WhenOpened": "2024-12-01T00:33:04.357Z",
               "EditorCaption": ""
             }
           ]
